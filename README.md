@@ -18,14 +18,19 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
   
-- 🌱 I’m currently learning Python libraries .
-  
-- 👯 I’m looking to collaborate on Data science and Data Visualization.
-  
-- 💬 Ask me about data analytics,data Visualization
-  
-- ⚡ Fun fact: Me gustan los girasoles.
+<h3 align="center">Passionate for Data analytics and Data Science Profile.</h3>
 
+- 🔭 I’m currently working on **Machine Learning Projects**
+
+- 🌱 I’m currently learning **Machine Learning**
+
+- 👯 I’m looking to collaborate on **Data Science and Data Analytics**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Chhamajain27](https://github.com/Chhamajain27)
+
+- 💬 Ask me about **Python, Pandas, Visualization, Machine Learning,SQL**
+
+- 📫 How to reach me **jainchhama027@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://in.linkedin.com/in/chhama-jain-193749191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/chhama-jain-193749191" height="30" width="40" /></a>
