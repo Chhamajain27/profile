@@ -5,7 +5,9 @@
 <h1> Hello Fellow ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## <b> Let's Connect..!</b><img src="https://github.com/0xchhamajain/0xchhama jain/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
 
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
